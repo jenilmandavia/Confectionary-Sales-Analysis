@@ -14,34 +14,34 @@ The organization faced several challenges:
 
 # Dashboard Feature
 The Power BI dashboard provides a comprehensive view of sales performance through:
-🔹 Key KPIs
+🔹 Key KPIs:
 Total Sales Amount
 Year-over-Year Growth (%)
 Average Transaction Value
 
-🔹 Time Series Analysis
+🔹 Time Series Analysis: 
 12-Month Moving Average
 Smooths short-term fluctuations
 Highlights long-term sales trends
 Reveals seasonal peaks (January & June)
 Note: Q4 data was unavailable; analysis is based on available months
 
-🔹 Product Performance & Pareto Analysis
+🔹 Product Performance & Pareto Analysis: 
 Bar + cumulative percentage visualization
 Identifies top-performing products
 Shows a diversified product portfolio with balanced revenue contribution
 
-🔹 Salesperson Performance
+🔹 Salesperson Performance: 
 Ranking of sales representatives by total sales
 Highlights top performers and performance distribution
 Enables performance benchmarking and coaching opportunities
 
-🔹 Geographic Analysis
+🔹 Geographic Analysis: 
 Total sales by country
 Identifies leading markets (Australia, UK, India)
 Reveals balanced regional contribution with growth opportunities
 
-🔹 Sales Channel Decomposition
+🔹 Sales Channel Decomposition: 
 Decomposition Tree
 Drill-down analysis by:
 Country
@@ -53,7 +53,8 @@ Enables root-cause analysis of top-performing segments
 # Key Business Insights
 1. Strong Business Growth
     54.30% YoY growth indicates high market demand and scalability
-2. Market Leaders
+   
+2.  Market Leaders
     Australia, the UK, and India are the top revenue-generating countries
 
 3. Sales Team Contribution
