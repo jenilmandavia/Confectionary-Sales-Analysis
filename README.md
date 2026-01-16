@@ -4,7 +4,7 @@ This project focuses on analyzing confectionery sales data using Power BI to unc
 Total Sales Analyzed: $19.79M
 Key Highlight: 54.30% Year-over-Year (YoY) Growth
 
-# Business Problem
+# **Business Problem**
 The organization faced several challenges:
   No centralized visibility into overall sales performance
   Difficulty identifying top-performing products, regions, and salespeople
@@ -12,7 +12,7 @@ The organization faced several challenges:
   Manual and intuition-based decision-making instead of analytics-driven insights.
   Lack of logistics planning to deliver demand.
 
-# Dashboard Feature
+# **Dashboard Feature**
 The Power BI dashboard provides a comprehensive view of sales performance through:
 🔹 Key KPIs:
 Total Sales Amount
@@ -50,7 +50,7 @@ Salesperson
 
 Enables root-cause analysis of top-performing segments
 
-# Key Business Insights
+# **Key Business Insights**
 1. Strong Business Growth
     54.30% YoY growth indicates high market demand and scalability
    
@@ -69,14 +69,14 @@ Enables root-cause analysis of top-performing segments
     Sales peaks observed in January and June
     Useful for inventory and marketing planning
 
-# Business Recommendation
+# **Business Recommendation**
    Prepare inventory and logistics in advance for peak months (January & June)
    Invest further in high-performing regions while improving underperforming markets
    Conduct customer demographic and market research to sustain growth
    Analyze cost and margin data to identify the most profitable products
    Use top sales performers as benchmarks for training and sales strategy
 
-# Impact
+# **Impact**
 This dashboard enables stakeholders to:
   Monitor sales performance in real time
   Identify growth opportunities and risks
